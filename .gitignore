@@ -9,6 +9,7 @@
 **/.project
 */target/
 target/
+out/
 *.ipr
 *.iws
 antx.properties
